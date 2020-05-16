@@ -1,7 +1,7 @@
 <h2>Timeline of astronomical maps, catalogs, and surveys </h2>
 <ul>
 <li>c. 1800 BC&nbsp;&mdash;&nbsp;<a title="Babylonia" href="https://en.wikipedia.org/wiki/Babylonia">Babylonian</a>&nbsp;star catalog (see&nbsp;<a title="Babylonian star catalogues" href="https://en.wikipedia.org/wiki/Babylonian_star_catalogues">Babylonian star catalogues</a>)</li>
-<li>c. 1370 BC; Observations for the Babylonia&nbsp;<a title="MUL.APIN" href="https://en.wikipedia.org/wiki/MUL.APIN">MUL.APIN</a>&nbsp;(an astro catalog).</li>
+<li>c. 1370 BC&nbsp;&mdash;&nbsp;Observations for the Babylonia&nbsp;<a title="MUL.APIN" href="https://en.wikipedia.org/wiki/MUL.APIN">MUL.APIN</a>&nbsp;(an astro catalog).</li>
 <li>c. 350 BC&nbsp;&mdash;&nbsp;<a title="Shi Shen" href="https://en.wikipedia.org/wiki/Shi_Shen">Shi Shen</a>'s star catalog has almost 800 entries</li>
 <li>c. 300 BC&nbsp;&mdash; star catalog of&nbsp;<a class="mw-redirect" title="Timocharis of Alexandria" href="https://en.wikipedia.org/wiki/Timocharis_of_Alexandria">Timocharis of Alexandria</a></li>
 <li>c. 134 BC&nbsp;&mdash;&nbsp;<a title="Hipparchus" href="https://en.wikipedia.org/wiki/Hipparchus">Hipparchus</a>&nbsp;makes a detailed&nbsp;<a class="mw-redirect" title="Star map" href="https://en.wikipedia.org/wiki/Star_map">star map</a></li>
